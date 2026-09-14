@@ -1,0 +1,13 @@
+body{
+margin:0;
+font-family:Arial,Helvetica,sans-serif;
+background:#f4f7fa;
+}
+
+*{
+box-sizing:border-box;
+}
+
+a{
+text-decoration:none;
+}

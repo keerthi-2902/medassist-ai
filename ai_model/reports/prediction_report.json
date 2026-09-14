@@ -1,0 +1,50 @@
+{
+  "patient": {
+    "Fever": "Yes",
+    "Cough": "Yes",
+    "Fatigue": "Yes",
+    "Difficulty Breathing": "No",
+    "Age": 25,
+    "Gender": "Female",
+    "Blood Pressure": "Normal",
+    "Cholesterol Level": "Normal",
+    "Outcome Variable": "Positive"
+  },
+  "prediction": {
+    "predicted_disease": "Influenza",
+    "confidence": 20.5,
+    "top_predictions": [
+      {
+        "disease": "Influenza",
+        "probability": 20.5
+      },
+      {
+        "disease": "Rheumatoid Arthritis",
+        "probability": 13.0
+      },
+      {
+        "disease": "Eczema",
+        "probability": 9.2
+      },
+      {
+        "disease": "Common Cold",
+        "probability": 8.8
+      },
+      {
+        "disease": "Osteoporosis",
+        "probability": 7.0
+      }
+    ]
+  },
+  "risk": {
+    "severity_score": 27.5,
+    "risk_category": "Moderate",
+    "is_emergency": false
+  },
+  "recommendations": [
+    "Schedule doctor appointment within 1 week",
+    "Rest and stay hydrated",
+    "Monitor for worsening symptoms",
+    "Follow prescribed medications if any"
+  ]
+}

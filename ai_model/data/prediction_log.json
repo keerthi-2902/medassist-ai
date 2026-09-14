@@ -1,0 +1,156 @@
+[
+  {
+    "timestamp": "2026-08-23 01:07:06",
+    "report_id": "MA-20260823-010706",
+    "disease": "Aarskog syndrome",
+    "confidence": 0.87,
+    "risk_category": "Moderate",
+    "severity": 25.45,
+    "symptoms": [
+      "Belly button that sticks out",
+      "Poorly developed middle section of the face",
+      "Triple-jointed thumbs"
+    ],
+    "age": 30,
+    "gender": "Female"
+  },
+  {
+    "timestamp": "2026-08-23 01:07:36",
+    "report_id": "MA-20260823-010736",
+    "disease": "Aarskog syndrome",
+    "confidence": 1.23,
+    "risk_category": "Low",
+    "severity": 5.45,
+    "symptoms": [
+      "Delayed teeth",
+      "Downward palpebral slant to eyes",
+      "Hairline with a \"widow's peak\""
+    ],
+    "age": 30,
+    "gender": "Female"
+  },
+  {
+    "timestamp": "2026-08-23 01:17:05",
+    "report_id": "MA-20260823-011705",
+    "disease": "Aase syndrome",
+    "confidence": 1.45,
+    "risk_category": "Moderate",
+    "severity": 40.6,
+    "symptoms": [
+      "Downward palpebral slant to eyes",
+      "Mild to moderate cognitive problems",
+      "Short fingers and toes with mild webbing",
+      "Deformed ears"
+    ],
+    "age": 20,
+    "gender": "Female"
+  },
+  {
+    "timestamp": "2026-08-23 01:17:31",
+    "report_id": "MA-20260823-011731",
+    "disease": "Aarskog syndrome",
+    "confidence": 7.53,
+    "risk_category": "Low",
+    "severity": 5.45,
+    "symptoms": [
+      "Testicles that have not come down (undescended)",
+      "Top portion of the ear folded over slightly",
+      "Wide-set eyes with droopy eyelids"
+    ],
+    "age": 30,
+    "gender": "Male"
+  },
+  {
+    "timestamp": "2026-08-23 01:23:56",
+    "report_id": "MA-20260823-012356",
+    "disease": "Hernia",
+    "confidence": 2.25,
+    "risk_category": "Low",
+    "severity": 0.45,
+    "symptoms": [
+      "Bulge in the groin or scrotum",
+      "Delayed sexual maturity",
+      "Mildly sunken chest (pectus excavatum)"
+    ],
+    "age": 20,
+    "gender": "Female"
+  },
+  {
+    "timestamp": "2026-08-23 10:37:17",
+    "report_id": "MA-20260823-103717",
+    "disease": "Hemolytic anemia",
+    "confidence": 2.67,
+    "risk_category": "Moderate",
+    "severity": 30.45,
+    "symptoms": [
+      "Rapid heart rate",
+      "Bleeding that lasts for more days than normal or for more than 7 days",
+      "Shallow breathing"
+    ],
+    "age": 30,
+    "gender": "Male"
+  },
+  {
+    "timestamp": "2026-08-24 19:32:33",
+    "report_id": "MA-20260824-193233",
+    "disease": "Abnormal uterine bleeding (AUB)",
+    "confidence": 2.28,
+    "risk_category": "Moderate",
+    "severity": 25.45,
+    "symptoms": [
+      "Shallow breathing",
+      "Mood swings",
+      "Low blood pressure"
+    ],
+    "age": 22,
+    "gender": "Female"
+  },
+  {
+    "timestamp": "2026-08-27 19:14:11",
+    "report_id": "MA-20260827-191411",
+    "disease": "Atypical pneumonia",
+    "confidence": 4.12,
+    "risk_category": "Moderate",
+    "severity": 25.45,
+    "symptoms": [
+      "Short fingers and toes with mild webbing",
+      "Pale skin",
+      "Clammy skin"
+    ],
+    "age": 20,
+    "gender": "Female"
+  },
+  {
+    "timestamp": "2026-08-27 19:21:57",
+    "report_id": "MA-20260827-192157",
+    "disease": "Atypical pneumonia",
+    "confidence": 4.11,
+    "risk_category": "Moderate",
+    "severity": 30.6,
+    "symptoms": [
+      "Delayed teeth",
+      "Poorly developed middle section of the face",
+      "Small nose with nostrils tipped forward",
+      "Clammy skin"
+    ],
+    "age": 22,
+    "gender": "Female"
+  },
+  {
+    "timestamp": "2026-09-10 06:24:12",
+    "report_id": "MA-20260910-062412",
+    "disease": "Hernia",
+    "confidence": 2.25,
+    "risk_category": "High",
+    "severity": 60.75,
+    "symptoms": [
+      "Belly button that sticks out",
+      "Bulge in the groin or scrotum",
+      "Delayed sexual maturity",
+      "Delayed teeth",
+      "Downward palpebral slant to eyes"
+    ],
+    "age": 45,
+    "gender": "Female"
+  }
+]

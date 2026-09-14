@@ -1,0 +1,5 @@
+﻿node_modules/
+backend/node_modules/
+frontend/node_modules/
+datasets/brfss2022.csv
+ai_model/models/all_models.pkl

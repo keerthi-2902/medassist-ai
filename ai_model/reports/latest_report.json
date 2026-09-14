@@ -1,0 +1,79 @@
+{
+  "report_id": "MA-20260910-062412",
+  "generated_at": "2026-09-10 06:24:12",
+  "patient": {
+    "symptoms": [
+      "Belly button that sticks out",
+      "Bulge in the groin or scrotum",
+      "Delayed sexual maturity",
+      "Delayed teeth",
+      "Downward palpebral slant to eyes"
+    ],
+    "age": 45,
+    "gender": "Female",
+    "blood_pressure": "High",
+    "cholesterol": "High"
+  },
+  "prediction": {
+    "predicted_disease": "Hernia",
+    "confidence": 2.25,
+    "top_predictions": [
+      {
+        "disease": "Hernia",
+        "probability": 2.25
+      },
+      {
+        "disease": "Aarskog syndrome",
+        "probability": 1.32
+      },
+      {
+        "disease": "Hypersplenism",
+        "probability": 0.82
+      },
+      {
+        "disease": "Dysarthria",
+        "probability": 0.78
+      },
+      {
+        "disease": "Central serous choroidopathy",
+        "probability": 0.75
+      }
+    ]
+  },
+  "risk": {
+    "severity_score": 60.75,
+    "risk_category": "High",
+    "is_emergency": false,
+    "symptom_count": 5
+  },
+  "treatment": {
+    "treatments": [
+      "Gastroenterology evaluation",
+      "Acid suppression therapy",
+      "Dietary modification",
+      "Endoscopy if advised"
+    ],
+    "prevention": [
+      "Avoid NSAIDs overuse",
+      "Limit spicy/oily food",
+      "No smoking",
+      "Manage stress"
+    ],
+    "lifestyle": [
+      "Small frequent meals",
+      "Chew food well",
+      "Avoid late-night eating",
+      "Probiotic foods"
+    ],
+    "followup": "Gastroenterologist if symptoms persist 2 weeks",
+    "specialist": "Gastroenterologist",
+    "disease": "Hernia",
+    "matched": "category"
+  },
+  "recommendations": [
+    "Schedule urgent doctor appointment within 24 hours",
+    "Monitor symptoms closely",
+    "Avoid physical exertion",
+    "Keep emergency contacts ready"
+  ]
+}

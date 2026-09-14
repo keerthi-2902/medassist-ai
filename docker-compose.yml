@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  ai-backend:
+    build: ./ai_model
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./ai_model/models:/app/models
+      - ./ai_model/reports:/app/reports
+      - ./ai_model/data:/app/data
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    depends_on:
+      - ai-backend
